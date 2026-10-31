@@ -1,0 +1,19 @@
+Fiche objet
+      ↓
+Calcul densité
+      ↓
+Construction de Tμν
+      ↓
+Hypothèse de symétrie
+      ↓
+Recherche d'une métrique
+      ↓
+Christoffel
+      ↓
+Riemann
+      ↓
+Ricci
+      ↓
+Einstein
+      ↓
+Kretschmann
